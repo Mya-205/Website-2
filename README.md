@@ -2,6 +2,9 @@
 
 This website allows a user to enter their First name and Surname and allows them to either save it or cancel the changes.
 
+![image](https://user-images.githubusercontent.com/74416094/132998609-45816ee4-eac1-4c7f-ab20-e1c1c706438b.png)
+
+
 ![image](https://user-images.githubusercontent.com/74416094/132998446-27239ea1-3856-4346-bf62-eae3febb2d9b.png)
 
 ------------------------------
